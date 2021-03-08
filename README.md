@@ -3,7 +3,7 @@
 
 
 # What is Shitcoin?
-Banano is designed to be a feeless, instant, high throughput cryptocurrency for apes with diamond Hands. 
+Shitcoin is designed to be a feeless, instant, high throughput cryptocurrency for apes with diamond Hands. 
 
 ### Key features
 * Shitcoin utilizes everything Banano uses but is managed by real apes.
