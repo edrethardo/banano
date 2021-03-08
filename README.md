@@ -2,19 +2,18 @@
   <img src="https://github.com/BananoCoin/banano/blob/master/logo.png" width="50%" height="50%"/></p>
 
 
-# What is Banano?
-Banano is designed to be a feeless, instant, high throughput cryptocurrency for the meme economy. 
+# What is Shitcoin?
+Banano is designed to be a feeless, instant, high throughput cryptocurrency for apes with diamond Hands. 
 
 ### Key features
-* Banano utilizes a novel block-lettuce architecture.
+* Shitcoin utilizes everything Banano uses but is managed by real apes.
 * Instant and Feeless transactions.
-* Fungible (& Edible).
-* Daily potassium airdrops.
-* Ripe for memes.
-* Literally grows on trees, no mining required.
-* Not a Shitcoin (until digested).
-* No more confusing prefix, Bananos contain Banoshis.
-* Replay Protection to stop attackers from executing replay attacks from chain X on chain Y and vice versa.
+* You can throw shitcoin at people.
+* Daily chocolate rain.
+* smells  like memes.
+* Literally shit, no mining required.
+* THE Shitcoin.
+
 
 ### Key facts
 * Forked from NANO (raiblocks)
