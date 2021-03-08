@@ -3,7 +3,7 @@
 
 
 # What is Shitcoin?
-Shitcoin is designed to be a feeless, instant, high throughput cryptocurrency for apes with diamond Hands. 
+Shitcoin is designed to be a feeless, instant, high throughput cryptocurrency for apes with diamond hands. 
 
 ### Key features
 * Shitcoin utilizes everything Banano uses but is managed by real apes.
@@ -16,9 +16,9 @@ Shitcoin is designed to be a feeless, instant, high throughput cryptocurrency fo
 
 
 ### Key facts
-* Forked from NANO (raiblocks)
+* Forked from BANANO (raiblocks)
 * Total Supply: 3,402,823,669.20
-* Born in Feb. 2018, Mainnet launch April 1st, 2018
+* Made in my Shitbrains in March. 2018, Dortmund to be shat launch April 1st, 2018
 
 For more information, see [Banano.cc](https://banano.cc).
 
