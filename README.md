@@ -11,6 +11,7 @@ Shitcoin is designed to be a feeless, instant, high throughput cryptocurrency fo
 * You can throw shitcoin at people.
 * Daily chocolate rain.
 * smells  like memes.
+* approved by Harambe
 * Literally shit, no mining required.
 * THE Shitcoin.
 
